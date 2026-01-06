@@ -6,4 +6,5 @@ format: revealjs
 ## Test Slide
 
 ```{r}
-print("Quarto script is running")
+source("src/utils.R")
+say_hello()
