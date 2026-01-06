@@ -1,0 +1,9 @@
+---
+title: "Quarto Entry Script"
+format: revealjs
+---
+
+## Test Slide
+
+```{r}
+print("Quarto script is running")
